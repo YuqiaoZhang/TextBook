@@ -4,3 +4,6 @@ https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010
 
 Introduction to functional analysis    
 http://www.math.nagoya-u.ac.jp/~richard/infoseminar2017.html    
+
+Differential geometry    
+http://www.math.nagoya-u.ac.jp/~richard/SMLfall2018.html    
